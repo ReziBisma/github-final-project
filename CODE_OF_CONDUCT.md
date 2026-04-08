@@ -1,36 +1,23 @@
-# Code of Conduct
+## Enforcement Guidelines
 
-## Our Pledge
-We as contributors and maintainers are committed to creating an open, welcoming, and harassment-free environment for everyone, regardless of age, body size, disability, ethnicity, gender identity, level of experience, nationality, personal appearance, race, religion, or sexual orientation.
+Project maintainers will follow these guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
-## Our Standards
-Examples of behavior that contribute to a positive environment include:
-- Using respectful and inclusive language
-- Respecting differing opinions and viewpoints
-- Accepting constructive criticism gracefully
-- Focusing on what is best for the community
+### 1. Correction
+Community Impact: Use of inappropriate language or other behavior deemed unprofessional.
 
-Examples of unacceptable behavior include:
-- Insulting or derogatory language or actions
-- Harassment in any form
-- Trolling, provocative comments, or personal attacks
-- Publishing others' private information without permission
+Consequence: A private, written warning from project maintainers, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate.
 
-## Responsibilities
-Project maintainers are responsible for:
-- Enforcing standards of acceptable behavior
-- Removing inappropriate content
-- Issuing warnings or taking action against violations
+### 2. Warning
+Community Impact: A violation through a single incident or series of actions.
 
-## Scope
-This Code of Conduct applies in all project spaces, including:
-- GitHub repositories
-- Issues and Pull Requests
-- Other community communication channels
+Consequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time.
 
-## Enforcement
-Violations may be reported to the project maintainers. All reports will be reviewed and handled fairly.
+### 3. Temporary Ban
+Community Impact: A serious violation of community standards.
 
-## Attribution
-This document is adapted from the Contributor Covenant, version 2.1  
-https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+Consequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time.
+
+### 4. Permanent Ban
+Community Impact: Demonstrating a pattern of violation of community standards.
+
+Consequence: A permanent ban from any sort of public interaction within the community.
