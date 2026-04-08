@@ -1,33 +1,23 @@
-# Stock Gudang Gelang Pasien Rumah Sakit Soewondo
+# Simple Interest Calculator
 
-## 📌 Deskripsi
-Proyek ini merupakan aplikasi sederhana untuk mengelola stok gelang pasien di Rumah Sakit Soewondo. Sistem ini membantu dalam pencatatan, pemantauan, dan pengelolaan persediaan gelang pasien secara efisien.
+## 📌 Description
+This project is a simple Bash script that calculates simple interest based on user input.
 
----
+## 🧮 Formula
+Simple Interest = (Principal × Rate × Time) / 100
 
-## 🚀 Fitur
-- Menambahkan data stok gelang pasien
-- Mengupdate jumlah stok
-- Menghapus data stok
-- Menampilkan daftar stok gelang pasien
+## 🚀 Features
+- Input principal amount
+- Input rate of interest
+- Input time period
+- Calculates and displays simple interest
 
----
+## 🛠️ Technologies Used
+- Bash scripting
+- Git & GitHub
 
-## 🛠️ Teknologi yang Digunakan
-- Bash Script (simple-interest.sh)
-- Git & GitHub untuk version control
+## ▶️ How to Run
 
----
-
-## 📂 Struktur Repository
-- `LICENSE` → Lisensi Apache 2.0
-- `CODE_OF_CONDUCT.md` → Aturan perilaku kontributor
-- `CONTRIBUTING.md` → Panduan kontribusi
-- `simple-interest.sh` → Script kalkulator bunga sederhana
-
----
-
-## 📖 Cara Menjalankan
-1. Clone repository:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/NAMA-REPO.git
+   git clone https://github.com/USERNAME/github-final-project.git
